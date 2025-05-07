@@ -37,7 +37,7 @@ git push -u origin
 
 ### Fetch changes from current branch
 ```bash
-git fetch
+git fetch origin
 ```
 
 ### Check current branch
